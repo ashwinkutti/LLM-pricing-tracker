@@ -1,4 +1,4 @@
-his project creates a modern dashboard for:
+This project creates a modern dashboard for:
 
 Latest LLM models
 Token limits
