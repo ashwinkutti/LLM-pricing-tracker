@@ -1,0 +1,42 @@
+[
+  {
+    "provider": "OpenAI",
+    "model": "GPT-5",
+    "parameters": "Estimated 1.8T",
+    "context_window": "256K",
+    "input_price": 0.005,
+    "output_price": 0.015,
+    "best_for": "Reasoning, coding, agents",
+    "speed": "Fast"
+  },
+  {
+    "provider": "Anthropic",
+    "model": "Claude 3.7 Sonnet",
+    "parameters": "Unknown",
+    "context_window": "200K",
+    "input_price": 0.003,
+    "output_price": 0.015,
+    "best_for": "Long context, analysis",
+    "speed": "Medium"
+  },
+  {
+    "provider": "Google",
+    "model": "Gemini 2.5 Pro",
+    "parameters": "Unknown",
+    "context_window": "1M",
+    "input_price": 0.0025,
+    "output_price": 0.01,
+    "best_for": "Massive context, multimodal",
+    "speed": "Fast"
+  },
+  {
+    "provider": "Meta",
+    "model": "Llama 4",
+    "parameters": "400B",
+    "context_window": "128K",
+    "input_price": 0.001,
+    "output_price": 0.003,
+    "best_for": "Open-source deployment",
+    "speed": "Fast"
+  }
+]

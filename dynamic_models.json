@@ -1,0 +1,1172 @@
+[
+  {
+    "provider": "OpenAI",
+    "model": "text-embedding-ada-002",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "whisper-1",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-3.5-turbo",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0.0005,
+    "output_price": 0.0015,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "tts-1",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-3.5-turbo-16k",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "davinci-002",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "babbage-002",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-3.5-turbo-instruct",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-3.5-turbo-instruct-0914",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-3.5-turbo-1106",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "tts-1-hd",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "tts-1-1106",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "tts-1-hd-1106",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "text-embedding-3-small",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "text-embedding-3-large",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-3.5-turbo-0125",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0.005,
+    "output_price": 0.015,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-2024-05-13",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-2024-07-18",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-2024-08-06",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-audio-preview",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "omni-moderation-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "omni-moderation-2024-09-26",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-audio-preview-2024-12-17",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-audio-preview-2024-12-17",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o1-2024-12-17",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o1",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-audio-preview",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o3-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o3-mini-2025-01-31",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-2024-11-20",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-search-preview-2025-03-11",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-search-preview",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-transcribe",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-transcribe",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o3-2025-04-16",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o4-mini-2025-04-16",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o3",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "o4-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4.1-2025-04-14",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4.1",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4.1-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4.1-nano-2025-04-14",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4.1-nano",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-image-1",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-audio-preview-2025-06-03",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-transcribe-diarize",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-chat-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-2025-08-07",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-mini-2025-08-07",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-nano-2025-08-07",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-nano",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-audio-2025-08-28",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-2025-08-28",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-audio",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-codex",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-image-1-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-pro-2025-10-06",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-pro",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-audio-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-audio-mini-2025-10-06",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-search-api",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-mini-2025-10-06",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "sora-2",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "sora-2-pro",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5-search-api-2025-10-14",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.1-chat-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.1-2025-11-13",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.1",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.1-codex",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.1-codex-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.1-codex-max",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-image-1.5",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.2-2025-12-11",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.2",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.2-pro-2025-12-11",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.2-pro",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.2-chat-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-transcribe-2025-12-15",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-transcribe-2025-03-20",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts-2025-03-20",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts-2025-12-15",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-mini-2025-12-15",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-audio-mini-2025-12-15",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "chatgpt-image-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.2-codex",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.3-codex",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-1.5",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-audio-1.5",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-search-preview",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-4o-search-preview-2025-03-11",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.3-chat-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-2026-03-05",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-pro",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-pro-2026-03-05",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-nano-2026-03-17",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-nano",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.4-mini",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-image-2",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-image-2-2026-04-21",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.5",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.5-2026-04-23",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.5-pro",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-5.5-pro-2026-04-23",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "chat-latest",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-translate",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-2",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  },
+  {
+    "provider": "OpenAI",
+    "model": "gpt-realtime-whisper",
+    "parameters": "Unknown",
+    "context_window": "Unknown",
+    "input_price": 0,
+    "output_price": 0,
+    "best_for": "General AI tasks",
+    "speed": "Unknown"
+  }
+]
